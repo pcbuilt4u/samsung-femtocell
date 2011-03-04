@@ -43,7 +43,7 @@ It's pretty simple, but two gotchas are the plastic "hooks" on the outer cover, 
   [http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/13.jpg http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/13.png]
 
   # close-up of the main chips
-  [http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/18.jpg http://samsung femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/18.png]
+  [http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/18.jpg http://samsung.femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/18.png]
 
   # the chips under the second (long) shield
   [http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/19.jpg http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/19.png]
