@@ -1,0 +1,3 @@
+#summary chip details
+
+  OMAP171x - 220 MHz ARM926EJ-S + C55x DSP, Low-voltage 90 nm technology
