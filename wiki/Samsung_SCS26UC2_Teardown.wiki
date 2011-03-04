@@ -6,4 +6,4 @@ It's pretty simple, but two gotchas are the plastic "hooks" on the outer cover, 
 
 = Instructions =
 photos
-
+[http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/01.jpg http://samsung-femtocell.googlecode.com/svn/wiki/Samsung_SCS26UC2_Teardown_Images/01.png]
