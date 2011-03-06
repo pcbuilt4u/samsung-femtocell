@@ -1,6 +1,13 @@
-#summary chip details
+#summary misc details
 
   OMAP171x - 220 MHz ARM926EJ-S + C55x DSP, Low-voltage 90 nm technology
+
+= Web Login =
+The device requests an IP via DHCP.  Once you find it's address, you can access it on port 80, with:
+{{{
+username: admin
+password: ubicell
+}}}
 
 = Resources = 
 [http://linux.omap.com/pub/documentation/U-Boot%20for%20the%20OMAP16xx%20SDP.pdf Flashing with u-boot]
