@@ -13,5 +13,5 @@ password: ubicell
 [http://linux.omap.com/pub/documentation/U-Boot%20for%20the%20OMAP16xx%20SDP.pdf Flashing with u-boot]
 
 = Unbricking? =
-[http://osdir.com/ml/linux.ports.arm.omap/2006-10/msg00024.html]
-[http://linux.omap.com/pipermail/linux-omap-open-source/2006-October/008036.html]
+  * [http://osdir.com/ml/linux.ports.arm.omap/2006-10/msg00024.html]
+  * [http://linux.omap.com/pipermail/linux-omap-open-source/2006-October/008036.html]
