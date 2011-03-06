@@ -1,0 +1,17 @@
+#summary accessing the console
+
+= Using a Serial Cable =
+See HDMISerialCable for making your cable
+
+One you have a serial cable, just plug it in, and fire up screen or your terminal of choice.  You will need to connect at 57600,8n1.
+
+As soon as you see the boot prompt, type
+{{{sys<enter>}}}
+You will now be at the u-boot prompt.  Type:
+{{{setenv runlevel S
+setenv watchdog_off 1}}}
+You're now in maintenance mode!
+
+To get back to normal, type:
+{{{setenv runlevel
+setenv watchdog_off 0}}}
