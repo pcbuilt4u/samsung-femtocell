@@ -25,7 +25,7 @@ Once you are at the maintenance mode prompt, you are in an essentially unusable 
 {{{
 /etc/rc.d/extract_rfs.sh
 cd /ubin/
-/etc/rc.d/USER_MODE/S60USER_MODE.sh
+/etc/rc.d/USER_MODE/S60USER_MODE.sh start
 }}}
 
 == Entering the libdus debug utility shell ==
