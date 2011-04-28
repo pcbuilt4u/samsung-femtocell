@@ -19,3 +19,25 @@ To get back to normal, type:
 setenv runlevel
 setenv watchdog_off 0
 }}}
+
+== Booting to a usable environment ==
+Once you are at the maintenance mode prompt, you are in an essentially unusable environment.  To get all the commands and the like you need, do the following:
+{{{
+/etc/rc.d/extract_rfs.sh
+cd /ubin/
+/etc/rc.d/USER_MODE/S60USER_MODE.sh
+}}}
+
+== Entering the libdus debug utility shell ==
+{{{
+./uimhx &
+/usr/local/bin/dshx
+CMB
+help
+}}}
+
+== VPN Commands ==
+Show Contents of VPN config file
+{{{
+/app/vpn/vpn -show
+}}}
