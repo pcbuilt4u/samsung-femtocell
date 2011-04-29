@@ -1,0 +1,3 @@
+Under the debug utility shell, sometimes help won't show, like under the AGT task(to get a list of tasks to type in at the beginning, type "cat /etc/dus.conf").
+in this case typing "print on AGT" will make the results show, and typing "print off AGT" will hide them again.  To finally get to the help, type "help" and press enter.
+Also, typing just "print" will give the command usage information. 
